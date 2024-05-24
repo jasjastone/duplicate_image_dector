@@ -12,4 +12,6 @@ Then using the trained data you can check if the user is trying to upload duplic
 1. Secure or dectetor for NFTS
 2. Checking duplicated based on the image name or path
 
-# Please the code you can modify it on your own terms no license or attribution(if possible will also be nice) is required to use it
+# If you like it give it a star to the repo so that other people can find it
+#Licensing
+## The code you can modify it on your own terms no license or attribution(if possible will also be nice 🤪) is required to use it
